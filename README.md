@@ -1,1 +1,1 @@
-# My-Supervised-Learning-Repo
+# Bankruptcy prediction with random forest
