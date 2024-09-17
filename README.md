@@ -1,1 +1,1 @@
-# My-Magical-Mirai
+# My-Supervised-Learning-Repo
